@@ -4,7 +4,6 @@ scikit-learn
 joblib
 gradio
 XGBoost
-sklearn
 uvicorn
 fastapi
 
